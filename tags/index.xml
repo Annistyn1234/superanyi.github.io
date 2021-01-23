@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anyi Blog</title>
-    <link>https://superanyi.github.io/tags/</link>
+    <link>superanyi.com/tags/</link>
     <description>Recent content in Tags on Anyi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jan 2021 22:18:11 -0500</lastBuildDate>
     
-	<atom:link href="https://superanyi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="superanyi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2021</title>
-      <link>https://superanyi.github.io/tags/2021/</link>
+      <link>superanyi.com/tags/2021/</link>
       <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
       
-      <guid>https://superanyi.github.io/tags/2021/</guid>
+      <guid>superanyi.com/tags/2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>airport</title>
-      <link>https://superanyi.github.io/tags/airport/</link>
+      <link>superanyi.com/tags/airport/</link>
       <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
       
-      <guid>https://superanyi.github.io/tags/airport/</guid>
+      <guid>superanyi.com/tags/airport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>https://superanyi.github.io/tags/travel/</link>
+      <link>superanyi.com/tags/travel/</link>
       <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
       
-      <guid>https://superanyi.github.io/tags/travel/</guid>
+      <guid>superanyi.com/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>job</title>
-      <link>https://superanyi.github.io/tags/job/</link>
+      <link>superanyi.com/tags/job/</link>
       <pubDate>Fri, 22 Jan 2021 22:02:15 -0500</pubDate>
       
-      <guid>https://superanyi.github.io/tags/job/</guid>
+      <guid>superanyi.com/tags/job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://superanyi.github.io/tags/life/</link>
+      <link>superanyi.com/tags/life/</link>
       <pubDate>Fri, 22 Jan 2021 22:02:15 -0500</pubDate>
       
-      <guid>https://superanyi.github.io/tags/life/</guid>
+      <guid>superanyi.com/tags/life/</guid>
       <description></description>
     </item>
     
