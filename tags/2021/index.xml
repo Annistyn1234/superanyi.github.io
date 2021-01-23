@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021 on Anyi Blog</title>
+    <link>https://superanyi.github.io/tags/2021/</link>
+    <description>Recent content in 2021 on Anyi Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2021 22:18:11 -0500</lastBuildDate>
+    
+	<atom:link href="https://superanyi.github.io/tags/2021/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bye-Bye Boston</title>
+      <link>https://superanyi.github.io/2021/01/bye-bye-boston/</link>
+      <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
+      
+      <guid>https://superanyi.github.io/2021/01/bye-bye-boston/</guid>
+      <description>&lt;p&gt;There are still so many things I haven&#39;t checked out&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy New Year and my recent update</title>
+      <link>https://superanyi.github.io/2021/01/happy-new-year-and-my-recent-update/</link>
+      <pubDate>Fri, 22 Jan 2021 22:02:15 -0500</pubDate>
+      
+      <guid>https://superanyi.github.io/2021/01/happy-new-year-and-my-recent-update/</guid>
+      <description>&lt;p&gt;Dear people that I care for and am thankful for,&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
