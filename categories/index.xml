@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Welcome to Anyi&#39;s Blog</title>
-    <link>https://www.superanyi.com/categories/</link>
+    <link>https://superanyi.com/categories/</link>
     <description>Recent content in Categories on Welcome to Anyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jan 2021 22:18:11 -0500</lastBuildDate>
     
-	<atom:link href="https://www.superanyi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://superanyi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>China</title>
-      <link>https://www.superanyi.com/categories/china/</link>
+      <link>https://superanyi.com/categories/china/</link>
       <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
       
-      <guid>https://www.superanyi.com/categories/china/</guid>
+      <guid>https://superanyi.com/categories/china/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://www.superanyi.com/categories/life/</link>
+      <link>https://superanyi.com/categories/life/</link>
       <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
       
-      <guid>https://www.superanyi.com/categories/life/</guid>
+      <guid>https://superanyi.com/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>US</title>
-      <link>https://www.superanyi.com/categories/us/</link>
+      <link>https://superanyi.com/categories/us/</link>
       <pubDate>Fri, 22 Jan 2021 22:02:15 -0500</pubDate>
       
-      <guid>https://www.superanyi.com/categories/us/</guid>
+      <guid>https://superanyi.com/categories/us/</guid>
       <description></description>
     </item>
     
