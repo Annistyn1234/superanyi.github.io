@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anyi Blog</title>
@@ -8,44 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Jan 2021 11:03:48 -0500</lastBuildDate>
     
-	<atom:link href="https://superanyi.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://superanyi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chinese Crane 中国仙鹤</title>
-      <link>https://superanyi.com/2021/01/chinese-crane-%E4%B8%AD%E5%9B%BD%E4%BB%99%E9%B9%A4/</link>
+      <title>Posts</title>
+      <link>https://superanyi.com/post/</link>
       <pubDate>Mon, 25 Jan 2021 11:03:48 -0500</pubDate>
       
-      <guid>https://superanyi.com/2021/01/chinese-crane-%E4%B8%AD%E5%9B%BD%E4%BB%99%E9%B9%A4/</guid>
-      <description>&lt;p&gt;Daily Drawing&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>New digital drawing</title>
-      <link>https://superanyi.com/2021/01/new-digital-drawing/</link>
-      <pubDate>Sat, 23 Jan 2021 11:02:15 -0500</pubDate>
-      
-      <guid>https://superanyi.com/2021/01/new-digital-drawing/</guid>
-      <description>&lt;p&gt;Set a 2021 new year goal of learning digital drawing&lt;br&gt;
-学习新的画画技巧，2021新目标！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bye-Bye Boston</title>
-      <link>https://superanyi.com/2021/01/bye-bye-boston/</link>
-      <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
-      
-      <guid>https://superanyi.com/2021/01/bye-bye-boston/</guid>
-      <description>&lt;p&gt;Going back to China soon!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Happy New Year and my recent update</title>
-      <link>https://superanyi.com/2021/01/happy-new-year-and-my-recent-update/</link>
-      <pubDate>Fri, 22 Jan 2021 22:02:15 -0500</pubDate>
-      
-      <guid>https://superanyi.com/2021/01/happy-new-year-and-my-recent-update/</guid>
-      <description>&lt;p&gt;Dear people that I care for and am thankful for,&lt;/p&gt;</description>
+      <guid>https://superanyi.com/post/</guid>
+      <description></description>
     </item>
     
   </channel>
