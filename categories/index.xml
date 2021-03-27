@@ -6,35 +6,26 @@
     <description>Recent content in Categories on Anyi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 11:03:48 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 27 Mar 2021 09:37:29 +0800</lastBuildDate>
     
 	<atom:link href="https://superanyi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Life</title>
-      <link>https://superanyi.com/categories/life/</link>
-      <pubDate>Mon, 25 Jan 2021 11:03:48 -0500</pubDate>
+      <title>China</title>
+      <link>https://superanyi.com/categories/china/</link>
+      <pubDate>Sat, 27 Mar 2021 09:37:29 +0800</pubDate>
       
-      <guid>https://superanyi.com/categories/life/</guid>
+      <guid>https://superanyi.com/categories/china/</guid>
       <description></description>
     </item>
     
     <item>
       <title>US</title>
       <link>https://superanyi.com/categories/us/</link>
-      <pubDate>Mon, 25 Jan 2021 11:03:48 -0500</pubDate>
+      <pubDate>Fri, 22 Jan 2021 22:02:15 -0500</pubDate>
       
       <guid>https://superanyi.com/categories/us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>China</title>
-      <link>https://superanyi.com/categories/china/</link>
-      <pubDate>Fri, 22 Jan 2021 22:18:11 -0500</pubDate>
-      
-      <guid>https://superanyi.com/categories/china/</guid>
       <description></description>
     </item>
     
